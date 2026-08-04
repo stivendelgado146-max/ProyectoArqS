@@ -1,6 +1,12 @@
 # Costalito
 
-Sistema ERP para la gestión de graneros y tiendas de barrio.
+## Sistema ERP para la gestión de graneros y tiendas de barrio
+
+Costalito es un sistema ERP desarrollado como proyecto académico de la asignatura Arquitectura de Software de la Universidad Manuela Beltrán. El sistema está orientado a mejorar la administración de pequeños graneros y tiendas de barrio mediante el control de inventario, ventas, proveedores, clientes, fiados y reportes.
+
+## Objetivo
+
+Desarrollar un sistema ERP que facilite la gestión comercial de un granero familiar, optimizando el manejo de la información y apoyando la toma de decisiones.
 
 ## Integrantes
 
@@ -8,16 +14,19 @@ Sistema ERP para la gestión de graneros y tiendas de barrio.
 - Sebastián Cabanzo
 - Jhunior Estiven Delgado
 
-## Descripción
-
-Costalito es una aplicación web diseñada para administrar inventario, ventas, proveedores, clientes, fiados y reportes de un granero.
-
 ## Tecnologías
 
+- GitHub
+- GitHub Pages
 - Visual Studio
 - Enterprise Architect
-- GitHub
 
-## Documentación
+## Estructura del repositorio
 
-Toda la documentación se encuentra en la carpeta `/docs`.
+- **docs/** → Documentación del proyecto.
+- **diagramas/** → Diagramas UML y árbol de requisitos.
+- **presentacion/** → Presentación del proyecto.
+
+## Estado del proyecto
+
+Proyecto en fase de análisis y especificación de requerimientos.
